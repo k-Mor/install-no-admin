@@ -1,5 +1,5 @@
 # Install-no-admin
-Allows you install apps without admin permission on windows.
+Allows you to install apps without admin permission on windows.
 
 # How to use
 How to use this?
